@@ -5,7 +5,7 @@
 ################################################################################
 
 QLAUNCHER_VERSION = 1.0
-QLAUNCHER_SITE = $(TOPDIR)/../app/QLauncher
+QLAUNCHER_SITE = $(TOPDIR)/../external/QLauncher
 QLAUNCHER_SITE_METHOD = local
 
 QLAUNCHER_LICENSE = Apache V2.0
